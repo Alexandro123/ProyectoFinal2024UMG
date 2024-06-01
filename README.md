@@ -16,7 +16,7 @@ Este proyecto es una API desarrollada como parte del Proyecto Final 2024 para un
 4. Compila el proyecto: `mvn clean install`
 5. Ejecuta la aplicación: `java -jar target/proyecto-final-2024.jar`
 
-## Configuración de la base de datos
+## Configuración de la base de datos en la nube
 
 - URL de conexión: `viaduct.proxy.railway.net`
 - Nombre de la base de datos: `railway`
