@@ -47,9 +47,3 @@ La API está desplegada en Railway y se puede acceder a través de la siguiente 
 3. Realiza los cambios y commitea: `git commit -am 'Agrega nueva funcionalidad'`
 4. Haz push a la rama: `git push origin mi-nueva-funcionalidad`
 5. Envía una pull request.
-
-## Contacto
-
-- Nombre: [Tu nombre]
-- Correo electrónico: [Tu correo electrónico]
-- GitHub: [Tu usuario de GitHub]
